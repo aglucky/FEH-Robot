@@ -13,8 +13,9 @@ site:
     siteUrl: https://aglucky.github.io
     assetsPrefix: /FEH-Robot
     usePrettyRefs: true
-    title: Dendron
-    description: Personal knowledge space
+    title: Home of Jac-Bot
+    # logo: vault/assets/images/logo.png
+    description: FEH Robot Challenge Wiki
     siteLastModified: true
     gh_edit_branch: main
     duplicateNoteBehavior:
