@@ -1,0 +1,248 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1644262622659,
+      "created": 1644262622659,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "wn8PE1RhG0znK1alrGFYv": {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Home",
+      "desc": "",
+      "updated": 1644261054047,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b5ef2548434ec422223870868e90f11b",
+      "links": [],
+      "anchors": {
+        "team-jac-bot": {
+          "type": "header",
+          "text": "Team Jac-Bot",
+          "value": "team-jac-bot",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "6k4EAdvoadkerHeyd0GPc",
+        "qHr8Z62IWBv9yVSNQjiht",
+        "nqiqZIeWB0r4RfsT0OwuQ",
+        "ppY0iN0r1FtI7Pf9AKo3D"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "ppY0iN0r1FtI7Pf9AKo3D": {
+      "id": "ppY0iN0r1FtI7Pf9AKo3D",
+      "title": "Team",
+      "desc": "",
+      "updated": 1644262537588,
+      "created": 1644259546128,
+      "custom": {},
+      "fname": "team",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5dedf38fc2bbc0d73a3bf3e93b108530",
+      "links": [],
+      "anchors": {
+        "adam-gluck": {
+          "type": "header",
+          "text": "Adam Gluck",
+          "value": "adam-gluck",
+          "line": 8,
+          "column": 0,
+          "depth": 3
+        },
+        "josh-orlett": {
+          "type": "header",
+          "text": "Josh Orlett",
+          "value": "josh-orlett",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "cade-campbell": {
+          "type": "header",
+          "text": "Cade Campbell",
+          "value": "cade-campbell",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "ben-thomas": {
+          "type": "header",
+          "text": "Ben Thomas",
+          "value": "ben-thomas",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "nqiqZIeWB0r4RfsT0OwuQ": {
+      "id": "nqiqZIeWB0r4RfsT0OwuQ",
+      "title": "Robot",
+      "desc": "",
+      "updated": 1644259634873,
+      "created": 1644259634873,
+      "custom": {},
+      "fname": "robot",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "59bb6233a6285147b62851ab805eaf8e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "qHr8Z62IWBv9yVSNQjiht": {
+      "id": "qHr8Z62IWBv9yVSNQjiht",
+      "title": "Meetings",
+      "desc": "",
+      "updated": 1644259674966,
+      "created": 1644259674966,
+      "custom": {},
+      "fname": "meetings",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ea8b0b167f480133b19606bd2d2e40f0",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "6k4EAdvoadkerHeyd0GPc": {
+      "id": "6k4EAdvoadkerHeyd0GPc",
+      "title": "Budget",
+      "desc": "",
+      "updated": 1644259629917,
+      "created": 1644259611598,
+      "custom": {},
+      "fname": "budget",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "145f580250feda60ae35293b92c5eaaf",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Home",
+      "desc": "",
+      "updated": 1644261054047,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b5ef2548434ec422223870868e90f11b",
+      "links": [],
+      "anchors": {
+        "team-jac-bot": {
+          "type": "header",
+          "text": "Team Jac-Bot",
+          "value": "team-jac-bot",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "6k4EAdvoadkerHeyd0GPc",
+        "qHr8Z62IWBv9yVSNQjiht",
+        "nqiqZIeWB0r4RfsT0OwuQ",
+        "ppY0iN0r1FtI7Pf9AKo3D"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "## Team Jac-Bot\n\n\n\n\n![Picture of team](/assets/images/logo.jpg){max-width: 150px, display: block, margin: 0}"
+    }
+  ],
+  "noteIndex": {
+    "id": "wn8PE1RhG0znK1alrGFYv",
+    "title": "Home",
+    "desc": "",
+    "updated": 1644261054047,
+    "created": 1631901573363,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "b5ef2548434ec422223870868e90f11b",
+    "links": [],
+    "anchors": {
+      "team-jac-bot": {
+        "type": "header",
+        "text": "Team Jac-Bot",
+        "value": "team-jac-bot",
+        "line": 7,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "6k4EAdvoadkerHeyd0GPc",
+      "qHr8Z62IWBv9yVSNQjiht",
+      "nqiqZIeWB0r4RfsT0OwuQ",
+      "ppY0iN0r1FtI7Pf9AKo3D"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "## Team Jac-Bot\n\n\n\n\n![Picture of team](/assets/images/logo.jpg){max-width: 150px, display: block, margin: 0}"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
