@@ -10,8 +10,7 @@ site:
     siteHierarchies:
         - root
     siteRootDir: docs
-    siteUrl: https://aglucky.github.io
-    assetsPrefix: /FEH-Robot
+    siteUrl: https://jacbot.tech
     usePrettyRefs: true
     title: Home of Jac-Bot
     logo: vault/assets/images/logo.jpg
