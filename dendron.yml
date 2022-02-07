@@ -14,7 +14,7 @@ site:
     assetsPrefix: /FEH-Robot
     usePrettyRefs: true
     title: Home of Jac-Bot
-    # logo: vault/assets/images/logo.png
+    logo: vault/assets/images/logo.jpg
     description: FEH Robot Challenge Wiki
     siteLastModified: true
     gh_edit_branch: main
